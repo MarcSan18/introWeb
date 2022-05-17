@@ -1,0 +1,23 @@
+{
+  "name": "introweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcSan18/introWeb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcSan18/introWeb/issues"
+  },
+  "homepage": "https://github.com/MarcSan18/introWeb#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
